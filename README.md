@@ -8,4 +8,5 @@ This code is not for distribution.
 -Python
 -Javascript
 
-# Authors
+# Contributing
+To contribute, see 
