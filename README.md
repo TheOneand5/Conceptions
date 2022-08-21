@@ -1,12 +1,12 @@
 # Conceptions
-Some general app concepts and code I am learning
+Some concepts and code I come up with. You are free to use everything here!
 
-
-This code is not for distribution.
-
-# Code languages used
--Python
+# Languages used
+-HTML, CSS
 -Javascript
 
 # Contributing
-To contribute, see 
+To contribute, please message me! I would enjoy having your ideas!
+
+#Where do you write?
+I use Visual Studio Code for writing and committing.
