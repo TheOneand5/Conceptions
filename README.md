@@ -1,5 +1,5 @@
 # Conceptions
-Some concepts and code I come up with.
+Some site concepts and ideas I come up with.
 
 # Languages used
 -HTML, CSS
